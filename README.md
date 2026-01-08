@@ -49,7 +49,7 @@ The PRO edition adds features for users who work with multiple Excel files or ne
 
 Nothing else is locked — the PRO edition simply saves time.
 
-#💵  Pricing
+# 💵  Pricing
 
 PRO Edition: $5 (one-time)
 
@@ -64,12 +64,12 @@ No telemetry
 
 No DRM
 
-#📧 How to Get the PRO Edition
+# 📧 How to Get the PRO Edition
 
 To get the PRO edition:
 
 Send an email to:
-#📧 tsgiannis@gmail.com
+# 📧 tsgiannis@gmail.com
 
 You’ll receive payment details
 (supported methods: PayPal and Wise)
@@ -83,7 +83,7 @@ Optionally, access to the private GitHub repository (if you want)
 
 That’s it — simple and direct.
 
-🧠 Why This Model?
+# 🧠 Why This Model?
 
 The Free Edition remains genuinely useful
 
@@ -101,7 +101,7 @@ Free Edition: Open-source (public repository)
 
 PRO Edition: Distributed privately
 
-🙏 Thanks
+# 🙏 Thanks
 
 Whether you use the Free or PRO edition, thank you for checking out the project.
 
