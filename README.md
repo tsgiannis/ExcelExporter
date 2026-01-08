@@ -1,4 +1,4 @@
-# 📊 VBA Module Exporter
+# 📊 Excel Exporter
 
 A lightweight Windows tool to **export VBA code modules** from Excel files (`.xls`, `.xlsx`, `.xlsm`, `.xlsb`, etc.) into plain text files — perfect for **version control**, **backup**, or **code review**.
 
