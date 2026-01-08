@@ -37,7 +37,7 @@ legacy and template formats
 
 If you work with one Excel file at a time, the Free Edition works perfectly and has no artificial limitations.
 
-🚀 #PRO Edition – Extra Convenience
+## 🚀 PRO Edition – Extra Convenience
 
 The PRO edition adds features for users who work with multiple Excel files or need automation:
 
