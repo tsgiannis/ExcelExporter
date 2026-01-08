@@ -97,12 +97,11 @@ This tool exists because maintaining VBA-heavy Excel systems is painful — if i
 
 📜 License
 
-Free Edition: Open-source (public repository)
+# Free Edition: Open-source (public repository)
 
-PRO Edition: Distributed privately
+# PRO Edition: Distributed privately
 
-# 🙏 Thanks
 
-Whether you use the Free or PRO edition, thank you for checking out the project.
+
 
 If you have feedback, feature ideas, or edge cases — feel free to reach out.
