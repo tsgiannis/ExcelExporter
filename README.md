@@ -37,7 +37,7 @@ legacy and template formats
 
 If you work with one Excel file at a time, the Free Edition works perfectly and has no artificial limitations.
 
-🚀 PRO Edition – Extra Convenience
+🚀 #PRO Edition – Extra Convenience
 
 The PRO edition adds features for users who work with multiple Excel files or need automation:
 
@@ -49,7 +49,7 @@ The PRO edition adds features for users who work with multiple Excel files or ne
 
 Nothing else is locked — the PRO edition simply saves time.
 
-💵 Pricing
+💵 # Pricing
 
 PRO Edition: $5 (one-time)
 
@@ -69,7 +69,7 @@ No DRM
 To get the PRO edition:
 
 Send an email to:
-📧 tsgiannis@gmail.com
+📧# tsgiannis@gmail.com
 
 You’ll receive payment details
 (supported methods: PayPal and Wise)
